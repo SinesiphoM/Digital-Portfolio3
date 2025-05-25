@@ -1,1 +1,1 @@
-![CV Submissions](CV%20Submissions.PNG)
+![CV Submissions](CV%20Submission.PNG)
