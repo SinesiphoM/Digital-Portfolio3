@@ -1,3 +1,4 @@
-![Skills and Interests](images/Skills%20and%20Interests.PNG)
+![Skills and Interests](Skills%20and%20Interests.PNG)
+
 
 
