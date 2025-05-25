@@ -1,2 +1,2 @@
 
-![Career Counselling](images/Career%20Counselling.PNG)
+![Career Counselling](Career%20Counselling.PNG)
