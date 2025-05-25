@@ -1,6 +1,6 @@
 ##   Skills and Interests Reflection
 
-* Situation:
+ Situation:
   I was tasked with designing a Skills and Interests mockup 
   for my digital portfolio to showcase my abilities to employers.
 
