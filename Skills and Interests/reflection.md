@@ -4,16 +4,16 @@
   I was tasked with designing a Skills and Interests mockup 
   for my digital portfolio to showcase my abilities to employers.
 
-* Task:
+ Task:
   Create a visually appealing and organized section highlighting 
   my skills and interests consistent with my portfolio theme.
 
-* Action:
+ Action:
   Researched portfolio examples, designed layout in Figma, 
   categorized skills, used icons, and applied brand colors. 
   Added interactive elements to improve user experience.
 
-* Result:
+ Result:
   The mockup was positively received, clearly communicating 
   my strengths and making the portfolio more professional and engaging.
 
